@@ -25,7 +25,7 @@ Any VBA product that uses Microsoft Forms 2.0 library by default.  Microsoft Acc
 Tested on Excel and Word 2010-2016.
 
 ### Quick Start
-Download one of the blank templates from the quickstart folder, there is an [Excel](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.xlsm) and [Word](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.docm) version available.
+Download one of the blank templates from the quickstart folder, there is an [Excel](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.xlsm) and [Word](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.docm) version available. Ensure that you have macros enabled.
 
 ### Manual Install
 
