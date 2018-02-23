@@ -81,3 +81,6 @@ note that after you add the line that has WithEvents, that in the editor you now
 - AfterUpdate, BeforeUpdate, Enter and Exit events are not available. this is a limitation of MSForms and VBA.  If you want to use those events you'll have to work with them in the traditional manor.
 
 - Frames, MultiPage and TabStrip have several events that are slightly unique in its parameters, you have to listen for their distinctive events.
+
+### Inspiration
+[Rubberduck VBA: Factories](https://rubberduckvba.wordpress.com/2016/07/05/oop-vba-pt-2-factories-and-cheap-hotels/) influenced the style that I used in writing this code.  Strongly recommend reading this article.
