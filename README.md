@@ -24,7 +24,10 @@ ToggleButton
 Any VBA product that uses Microsoft Forms 2.0 library by default.  Microsoft Access will not work with this code.
 Tested on Excel and Word 2010-2016.
 
-### Installing
+### Quick Start
+Download one of the blank templates from the quickstart folder, there is an [Excel](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.xlsm) and [Word](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.docm) version available.
+
+### Manual Install
 
 Download all the .cls files from github and import the files into your VBA project.
 **Copy and paste will not work!**
