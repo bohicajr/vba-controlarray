@@ -21,8 +21,7 @@ ToggleButton
 ```
 ### Prerequisites
 
-Any VBA product that uses Microsoft Forms 2.0 library by default.  Microsoft Access will not work with this code.
-Tested on Excel and Word 2010-2016.
+Any VBA product that uses Microsoft Forms 2.0 library by default.  Tested to work with Excel and Word, 2010-2016.  Microsoft Access will not work with this code, use [vba-msaccess-controlarray](https://github.com/bohicajr/vba-msaccess-controlarray) for code compatible with Access.
 
 ### Quick Start
 Download one of the blank templates from the quickstart folder, there is an [Excel](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.xlsm) and [Word](https://github.com/bohicajr/vba-controlarray/blob/master/quickstart/VBA-ControlArray_Blank.docm) version available. Ensure that you have macros enabled.
